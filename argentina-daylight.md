@@ -33,7 +33,7 @@ Ushuaia, Departamento Ushuaia, Tierra del Fuego, Argentina (-54.8069332,-68.3073
  - Winter Solstice: 09:58:57 → 17:11:37
 ```
 
-Then -myself been trying to share Golang practicity with everyone- I thought "Hey, this short program is a nice
+Then -myself been trying to share Golang practicality with everyone- I thought "Hey, this short program is a nice
 little sample of idiomatic Go and good use of its awesome standard library".
 
 So I decided to share it... and you can read it below or download it from [here](argentina-daylight/main.go).
