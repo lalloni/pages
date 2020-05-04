@@ -1,4 +1,4 @@
-## Argentina daylight
+# Argentina daylight
 
 Yesterday one of our client-side teammates, based on the US, was very surprised about Argentina's southern location
 and its closeness to Antarctica, after looking it up on Maps out of curiosity.
